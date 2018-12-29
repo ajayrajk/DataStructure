@@ -65,7 +65,7 @@ public class StackOperationUsingJava {
         search_data(stack,5);
         search_data(stack,2);
 
-        peek_data(stack);
+        peek_data(stack); 
 
     }
 }
