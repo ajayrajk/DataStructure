@@ -34,5 +34,6 @@ public class BinarySearchingAlgo {
     	 return -1;
     	 
      }
+     
 }
 
