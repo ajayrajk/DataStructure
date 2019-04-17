@@ -1,4 +1,4 @@
-// problem 1:
+// problem 1:  print duplicate character 
     public static void printDuplicateChar() {
 
         String str = "Ajay Rajput";
@@ -32,7 +32,7 @@
         }
 
     }
-    // problem 2:
+    // problem 2: check anagram number
 
     public static boolean checkAnagram(String str1, String str2) {
         //boolean isAnagram = false;
