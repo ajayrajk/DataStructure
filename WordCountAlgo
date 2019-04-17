@@ -36,3 +36,11 @@ public class MyClass {
 
     }
 }
+
+
+/*  output of the program
+I 2
+LOVE 2
+MY 2
+INDIA 1
+NATION 1 */
